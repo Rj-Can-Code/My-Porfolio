@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/My-Porfolio/static/css/main.9b100ba7.css",
-    "main.js": "/github.io/My-Porfolio/static/js/main.1c15fde5.js",
+    "main.js": "/github.io/My-Porfolio/static/js/main.69287e7a.js",
     "static/js/453.16fa6309.chunk.js": "/github.io/My-Porfolio/static/js/453.16fa6309.chunk.js",
     "static/media/color-sharp.png": "/github.io/My-Porfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/github.io/My-Porfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -36,11 +36,11 @@
     "static/media/nav-icon1.svg": "/github.io/My-Porfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/github.io/My-Porfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.9b100ba7.css.map": "/github.io/My-Porfolio/static/css/main.9b100ba7.css.map",
-    "main.1c15fde5.js.map": "/github.io/My-Porfolio/static/js/main.1c15fde5.js.map",
+    "main.69287e7a.js.map": "/github.io/My-Porfolio/static/js/main.69287e7a.js.map",
     "453.16fa6309.chunk.js.map": "/github.io/My-Porfolio/static/js/453.16fa6309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b100ba7.css",
-    "static/js/main.1c15fde5.js"
+    "static/js/main.69287e7a.js"
   ]
 }
